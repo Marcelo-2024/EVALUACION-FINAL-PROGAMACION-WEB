@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: white;
+    line-height: 1.6;
+    margin: 0;
+    padding: 100px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+}
+
+button#ejercicio1 {
+    padding: 20px;
+    width: 150px;
+    height: 150px;
+    background-color: purple;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button#ejercicio1:hover {
+    background-color: #6a5acd;
+}
+button#ejercicio2 {
+    padding: 20px;
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button#ejercicio2:hover {
+    background-color: #32cd32;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
